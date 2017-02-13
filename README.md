@@ -13,6 +13,8 @@
 
 **Secure a long-term e-commerce consulting and development role**
 
+----
+
 ## **Experience**
 
 ### **Sr. Magento Developer / Consultant**<br>July 2016 - February 2017<br><small>**Dyode, Inc.**  &bullet;   _Anaheim, CA  (Telecommuted)_</small>
@@ -184,6 +186,8 @@ Development of independent product testing group requiring stable operating syst
 
 Unix and Windows-based product and operating system software installation, testing and configuration; PC and Solaris Sun Workstation Hardware installation and related software configuration.
 
+-----
+
 ## **Education**
 
 #### **_12/2004_** &bullet;  **University of Miami, School of Engineering, <br>Coral Gables, FL**<br>B.S. in Electrical Engineering <br><small>**Concentration in Telecommunications**</small>
@@ -229,7 +233,7 @@ Unix and Windows-based product and operating system software installation, testi
 * Fundamentals of Magento 2 Development v2.1 (_In progress_)
 
 
-
+----
 
 ## **Community**
 
@@ -237,6 +241,7 @@ Unix and Windows-based product and operating system software installation, testi
 
 #### **South Florida Magento Development Meet-up Group**<br>Member<br><small>March 2016 - Present </small>
 
+----
 
 ## **Projects**
 
@@ -380,9 +385,12 @@ Developed and launched E-commerce Retail Store on Magento CE 1.3.1 to sell stain
 - Jupiter-SEO (http://www.jupiter-seo.com)
 - Fundamental Reporting (http://www.fundamental-reporting.com)
 - TwasMe (http://www.twasme.com)
+- EvolveStrong
 
 
+Request more if desired, including personal non-published projects
 
+----
 
 ## **Technology**
 
@@ -501,6 +509,7 @@ Developed and launched E-commerce Retail Store on Magento CE 1.3.1 to sell stain
 * Microsoft Office Suite
 * GIT
 
+----
 
 ## **References**
 
