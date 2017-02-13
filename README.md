@@ -5,6 +5,8 @@
 **(561) 301-3207<br>df2002@gmail.com**
 
 
+**Formatted:** https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/df2k2/resume/master/README.md
+
 -----
 
 ## **Objective**
@@ -15,7 +17,7 @@
 
 ### **Sr. Magento Developer / Consultant**<br>July 2016 - February 2017<br><small>**Dyode, Inc.**  &bullet;   _Anaheim, CA  (Telecommuted)_</small>
 
-Project-Based Independent Contractor.  Worked on Active Ride Shop (activerideshop.com) production website.  
+Project-Based Independent Contractor.  Worked on Active Ride Shop (activerideshop.com) production website and architecture / development of a re-build which has been ceased due to internal decision to re-platform off of Magento.
 
 * Re-configured VCS to properly manage deployments on production and development servers.
 * Performance and code audits with report
