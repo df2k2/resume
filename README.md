@@ -394,7 +394,7 @@ Request more if desired, including personal non-published projects
 
 ## **Technology**
 
-####**Development**
+#### **Development**
 
 * **Languages:**
 	* PHP
@@ -464,7 +464,7 @@ Request more if desired, including personal non-published projects
 * Skype
 
 
-####**Operating System**
+#### **Operating System**
 
 * Windows
 * **Linux** 
@@ -477,7 +477,7 @@ Request more if desired, including personal non-published projects
 	* PowerShell
 	* Bash
 
-####**Documentation**
+#### **Documentation**
 
 * Anything with Markdown Syntax
 * GitBook
@@ -492,7 +492,7 @@ Request more if desired, including personal non-published projects
 * GitHubPages
 * SassDoc
 
-####**Hosting Services / Domain Management**
+#### **Hosting Services / Domain Management**
 
  * Digital Ocean
  * Rackspace
@@ -503,7 +503,7 @@ Request more if desired, including personal non-published projects
  * GitHubPages
  
  
-####**Misc Software**
+#### **Misc Software**
 
 * Adobe Creative Suite
 * Microsoft Office Suite
