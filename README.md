@@ -242,9 +242,11 @@ Unix and Windows-based product and operating system software installation, testi
 * **Magento Certified Developer Plus** (August 2014) - https://u.magento.com/certification/directory/dev/100167/
 
 
+<!-- 
+
 ## ****
 
-<!-- **Courses and Training**
+**Courses and Training**
 
 * Core Principles for Theming in Magento 2 (v2.1) (Feb 2017)
 * Responsive Web Design in Magento 2 (Feb 2017)
