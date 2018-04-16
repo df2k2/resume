@@ -288,7 +288,7 @@ Unix and Windows-based product and operating system software installation, testi
     * Provided detail for hardening of security 
     * Expanded scope of automated security alerts
 
-#### **Kate Somerville<br><small>11/17 – 01/18<br>[www.](http://www.katesomerville.com/)</small>**
+#### **Kate Somerville<br><small>11/17 – 01/18<br>[www.katesomerville.com](http://www.katesomerville.com/)</small>**
 
 **Kate Somerville - Magento Enterprise Edition v1.14.x**
 
@@ -296,6 +296,8 @@ Unix and Windows-based product and operating system software installation, testi
 #### **The Great Courses<br><small>10/17 – 01/18<br>[www.thegreatcourses.com](http://www.thegreatcourses.com/)</small>**
 
 **The Great Courses - Magento Enterprise Edition v1.13.x**
+
+* Integration of Magento 2 coupon engine API into current production Magento 1 solution
 
 <!-- END CURRENTLY EDITING -->
 
@@ -567,11 +569,13 @@ Request more if desired, including personal non-published projects
  
  
 <!--
+
 #### **Misc Software**
 
 * Adobe Creative Suite
 * Microsoft Office Suite
 * GIT
+
 -->
 
 ----
