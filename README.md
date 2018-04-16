@@ -1,6 +1,6 @@
-# **Chris Snedaker**<br>E-commerce Consultant / Developer 
+# **Chris Snedaker**<br>E-commerce Consultant / Developer
 
-**931 NW Fresco Way, Apt 206, Jensen Beach, FL 34957**
+**4755 SE Binnacle Way, Stuart, FL.  34997**
 
 **(561) 301-3207<br>df2002@gmail.com**
 
@@ -11,18 +11,26 @@
 
 ## **Objective**
 
-**Secure a long-term e-commerce consulting and development role**
+**Secure a long-term e-commerce consulting, software architect, technical lead, or senior development role**
 
 ----
 
 ## **Experience**
+
+
+### **Sr. Magento Developer**<br>June 2017 - February 2018<br><small>**Guidance Solutions, Inc.** &bullet; _Marina Del Rey, CA (Telecommuted)_</small>
+
+Magento 1.x / 2.x development, consultation, solutions, and architecture in a collaborative team environment on large ecommerce retail projects. 
+
+* Development and architecture within the Magento Commerce 1.x and 2.x (Enterprise Edition) Framework
+* Project audit and resolution with performance and security issues
 
 ### **Sr. Magento Developer / Consultant**<br>July 2016 - February 2017<br><small>**Dyode, Inc.**  &bullet;   _Anaheim, CA  (Telecommuted)_</small>
 
 Project-Based Independent Contractor.  Worked on Active Ride Shop (activerideshop.com) production website and architecture / development of a re-build which has been ceased due to internal decision to re-platform off of Magento.
 
 * Re-configured VCS to properly manage deployments on production and development servers.
-* Performance and code audits with report
+* Performance and code audits with reports 
 * Optimized code and database to prepare for holiday sales
 * Installed 3rd-party modules and developed custom modules
 * Security audits and secured / removed files that exposed sensitive data publicly
@@ -218,45 +226,91 @@ Unix and Windows-based product and operating system software installation, testi
 		
 ----
 
+**Open-source and Community contributions**
+
+* Magento StackExchange - https://magento.stackexchange.com/users/36143/df2k2
+* Magento 2 Developer Certification Study Guide converted to Markdown for anyone to use for research / note-taking - https://github.com/df2k2/m2cert
+
+-----
+
 ## **Certifications and Training**
 
 **Certifications**
 
-* Magento Certified Developer Plus (Aug 2014) - https://u.magento.com/certification/directory/dev/100167/
-* Magento Certified Frontend Developer (July 2015) - https://u.magento.com/certification/directory/dev/100167/
+* **Magento 2 Certified Solutions Specialist** (August 2017) - https://u.magento.com/certification/directory/dev/100167/
+* **Magento Certified Frontend Developer** (July 2015) - https://u.magento.com/certification/directory/dev/100167/
+* **Magento Certified Developer Plus** (August 2014) - https://u.magento.com/certification/directory/dev/100167/
 
 
-**Courses and Training**
+## ****
+
+<!-- **Courses and Training**
 
 * Core Principles for Theming in Magento 2 (v2.1) (Feb 2017)
 * Responsive Web Design in Magento 2 (Feb 2017)
-* Fundamentals of Magento 2 Development v2.1 (_In progress_)
+* Fundamentals of Magento 2 Development v2.1
+
+-->
 
 
 ----
 
 ## **Community**
 
+#### **South Florida Magento Development Meet-up Group**<br>Member<br><small>March 2016 - Present </small>
+
 #### **South Florida PHP Developers Meet-up Group**<br>Member<br><small>March 2016 - Present </small>
 
-#### **South Florida Magento Development Meet-up Group**<br>Member<br><small>March 2016 - Present </small>
 
 ----
 
 ## **Projects**
 
+
+<!-- CURRENTLY EDITING -->
+
+#### **Rubies Costumes<br><small>06/17 – 01/18<br>[www.rubies.com](https://www.rubies.com/)</small>**
+
+**Rubies - Magento 2 Commerce (Enterprise Edition) v2.1.x**
+
+
+#### **Sole Society<br><small>06/17 – 02/18<br>[www.solesociety.com](http://www.solesociety.com/)</small>**
+
+**Sole Society - Magento Enterprise v1.11.x**
+
+* Debugged, traced, and resolved performance issues affecting overall performance of production website
+* Developed new features, enhancements, and improved code quality
+* Identified and resolved several major performance issues directly resulting in 97% increase in holiday sales
+     
+* **Security**
+    * Discovered MySQL `trigger` as a source of malicious code injection on production site.
+    * Forensic analysis of production website security breach; 
+    * Provided detail for hardening of security 
+    * Expanded scope of automated security alerts
+
+#### **Kate Somerville<br><small>11/17 – 01/18<br>[www.](http://www.katesomerville.com/)</small>**
+
+**Kate Somerville - Magento Enterprise Edition v1.14.x**
+
+
+#### **The Great Courses<br><small>10/17 – 01/18<br>[www.thegreatcourses.com](http://www.thegreatcourses.com/)</small>**
+
+**The Great Courses - Magento Enterprise Edition v1.13.x**
+
+<!-- END CURRENTLY EDITING -->
+
 #### **Active Ride Shop<br><small>07/16 – 02/17<br>[www.activerideshop.com](http://www.activerideshop.com)</small>**
 
-**Active Ride Shop - Magento Enterprise (hacked-up core - v1.14.?)**
+**Active Ride Shop - Magento Enterprise (modified core - v1.14.?)**
 
 - Audit of code health and documented issues including modified core files
 - Re-configured VCS to properly manage deployments on production and development servers
-- Performance and code audits with report
+- Performance and code audits with detailed reporting
 - Optimized code and database to prepare for holiday sales
 - Installed 3rd-party modules and developed custom modules
-- Security audits and secured / removed files that exposed sensitive data publicly
+- Security audits and secured / removed files that exposed sensitive data
 - Applied security patches
-- Exposed significant architecture flaws and provided options for resolution
+- Identified significant architecture flaws and provided options for resolution
 
 #### **ZebcoBrands – Quantum Fishing<br><small>10/15 – 01/16<br>[www.quantumfishing.com](http://www.quantumfishing.com)</small>**
 
@@ -397,20 +451,26 @@ Request more if desired, including personal non-published projects
 #### **Development**
 
 * **Languages:**
+
 	* PHP
 	* JavaScript
 	* Powershell
 	* C/C++
 
 * **Development Software / Tools / Magento Dev Tools**
+
 	* PHPStorm w/ Plug-ins
-	* N98-MageRun
-	* Magicento
-	* PHP CodeSniffer
+	* N98-MageRun/2
+	* Magicento/2
+	* PHP CodeSniffer w/ Magento EQP Sniffs
 	
 
 * **Backend Frameworks / CMS**
-    * Magento Enterprise v1.11.x to 1.14.3.x 
+
+    * Magento 2 Commerce (formerly Enterprise Edition) v2.0.x - 2.2.x
+        * B2B Module
+    * Magento 2 Open Source (formerly Community Edition) v.Alpha - 2.2.x
+    * Magento Enterprise v1.11.x to v1.14.3.x 
     * Magento Community v1.3.x - v1.9.3.x 
     * Wordpress
     * Yii
@@ -426,12 +486,12 @@ Request more if desired, including personal non-published projects
     * JavaScript
 
 * **Frontend Frameworks**
-	* Bootstrap v2 to v4-alpha.6
+	* Bootstrap v2 to v4.x.x
 	* jQuery
 	* jQuery UI
 	* Foundation Zurb
 
-* **Task Runners / Static File Generators**
+* **Task Runners / Static Web**
     * Grunt
     * Gulp
     * Compass
@@ -459,6 +519,8 @@ Request more if desired, including personal non-published projects
     * BitBucket & Integrations
 * Basecamp
 * Slack
+    * Custom Integrations
+* Assembla
 * CodePen
 * TeamworkPM
 * Skype
@@ -466,7 +528,7 @@ Request more if desired, including personal non-published projects
 
 #### **Operating System**
 
-* Windows
+* Windows 
 * **Linux** 
 	* CentOS
 	* RHEL
@@ -477,9 +539,10 @@ Request more if desired, including personal non-published projects
 	* PowerShell
 	* Bash
 
-#### **Documentation**
+#### **Documentation Tools**
 
-* Anything with Markdown Syntax
+* Jekyll-based Documentation using Markdown / HTML
+* Markdown Syntax
 * GitBook
 * Confluence
 * GitHub Wiki
@@ -503,17 +566,31 @@ Request more if desired, including personal non-published projects
  * GitHubPages
  
  
+<!--
 #### **Misc Software**
 
 * Adobe Creative Suite
 * Microsoft Office Suite
 * GIT
+-->
 
 ----
 
 ## **References**
 
-* Available upon request
+<!-- 
+* Ron Davis, _Director of Technology_, Guidance Solutions
+* Oleg Snegov, _Technical Lead_, Guidance Solutions
+* Phillip Jackson, _Magento Evangelist_, Something Digital
+* Peter Gaffney, President, RG Systems (http://www.rg-sys.com/)
+* TJ Gamble, _CEO_, Jamersan, LLC   
+* Kurt, _CEO_, Tufudi Creative
+* Mikel Bitson
+* Nicholas Castelli
+* Christopher Queen
+-->
+
+_References available upon request_
 
 
 
