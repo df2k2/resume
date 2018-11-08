@@ -17,6 +17,14 @@
 
 ## **Experience**
 
+### **Magento Consultant**<br>May 2018 - November 2018<br><small>**CDS Global, Inc.** &bullet; _Des Moines, IA (Telecommuted)_</small>
+
+Contracted for six months to bring current development team up to speed with Magento 2.
+ 
+* Introduced composer for package management of custom modules
+* 
+
+  
 
 ### **Sr. Magento Developer**<br>June 2017 - February 2018<br><small>**Guidance Solutions, Inc.** &bullet; _Marina Del Rey, CA (Telecommuted)_</small>
 
@@ -275,6 +283,9 @@ Unix and Windows-based product and operating system software installation, testi
 
 **Rubies - Magento 2 Commerce (Enterprise Edition) v2.1.x**
 
+* Debugged custom B2B module issues; Implemented additional functionality
+* Optimized large images with minimal loss in quality.  Homepage, for example, reduced combined image sizes from 60MB to 8MB
+* Review of Magento's B2B module with comparison to current B2B module in order to identify differences and potential effort for replacement
 
 #### **Sole Society<br><small>06/17 – 02/18<br>[www.solesociety.com](http://www.solesociety.com/)</small>**
 
@@ -585,6 +596,7 @@ Request more if desired, including personal non-published projects
 ## **References**
 
 <!-- 
+* Scott Stogdill, _Director of Ecommerce_, CDS-Global, Inc.
 * Ron Davis, _Director of Technology_, Guidance Solutions
 * Oleg Snegov, _Technical Lead_, Guidance Solutions
 * Phillip Jackson, _Magento Evangelist_, Something Digital
