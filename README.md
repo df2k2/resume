@@ -17,14 +17,17 @@
 
 ## **Experience**
 
-### **Magento Consultant**<br>May 2018 - November 2018<br><small>**CDS Global, Inc.** &bullet; _Des Moines, IA (Telecommuted)_</small>
+### **Magento Consultant / Developer**<br>May 2018 - November 2018<br><small>**CDS Global, Inc.** &bullet; _Des Moines, IA (Telecommuted)_</small>
 
 Contracted for six months to bring current development team up to speed with Magento 2.
  
 * Introduced composer for package management of custom modules
-* 
-
-  
+* Introduced PHPStorm and Magento2 plugins to assist with development
+* Developed a component for an internal API integration module for USA API endpoints
+* Developed a component for a completely separate internal API integration module for UK API endpoints
+* Developed components that integrated the API into applicable parts of Magento.  I kept the Magento integration modules separated because not all platforms and stores required all API components.  Once Magento 2.3.0 is released, we’re able to update individual components, as needed and based on backwards compatibility conflicts, without being forced to re-work the main API component
+* Performance code reviews and assisted with learning Magento 2 software patterns
+* Created repository for patching core based on resolved code from Magento's support team and/or from open-source issues marked complete for next release.  Patches were applicable to specific core versions only, thus eliminating re-application on upgrades where the issue was resolved
 
 ### **Sr. Magento Developer**<br>June 2017 - February 2018<br><small>**Guidance Solutions, Inc.** &bullet; _Marina Del Rey, CA (Telecommuted)_</small>
 
