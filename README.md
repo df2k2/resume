@@ -1,8 +1,8 @@
-# **Chris Snedaker**<br>E-commerce Consultant / Developer
+# **Chris Snedaker**<br>E-commerce Consultant / Architect / Technical Lead
 
-**4755 SE Binnacle Way, Stuart, FL.  34997**
+**Stuart, FL.  34997**
 
-**(561) 301-3207<br>df2002@gmail.com**
+**(561) xxx-xxxx<br>xxxxxx@gmail.com**
 
 
 **Formatted:** https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/df2k2/resume/master/README.md
@@ -16,6 +16,11 @@
 ----
 
 ## **Experience**
+
+### **Techical Lead / Developer**<br>January 2019 - August 2019<br><small>**Image Skincare** &bullet; _Lantana, FL (Telecommuted)_</small>
+
+
+
 
 ### **Magento Consultant / Developer**<br>May 2018 - November 2018<br><small>**CDS Global, Inc.** &bullet; _Des Moines, IA (Telecommuted)_</small>
 
