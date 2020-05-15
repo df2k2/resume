@@ -17,21 +17,31 @@
 
 ## **Experience**
 
-### **Techical Lead / Developer**<br>January 2019 - August 2019<br><small>**Image Skincare** &bullet; _Lantana, FL (Telecommuted)_</small>
+### **Magento Techical Lead / Developer**<br>December 2018 - August 2019<br><small>**Image Skincare** &bullet; _Lantana, FL (Telecommuted)_</small>
 
+Magento 2.2.x development, consultation, solutions, and architecture in a collaborative team environment; Project hosted within Magento's Cloud infrastructure
 
+* Security audits, improvements, and 
+* Debugging and resolving bugs and issues
+* Supported and developed external service integrations
+* Provided guidance and direction to developers
+* Assisted with international multi-store architecture
+* Developed detailed plans and execution for migration to Magento's B2B module
+* Identified and resolved the most problematic performance issues, boosting sales almost immediately
 
 
 ### **Magento Consultant / Developer**<br>May 2018 - November 2018<br><small>**CDS Global, Inc.** &bullet; _Des Moines, IA (Telecommuted)_</small>
 
 Contracted for six months to bring current development team up to speed with Magento 2.
  
-* Introduced composer for package management of custom modules
+* Introduced a robust composer solution for package management of custom modules across projects
 * Introduced PHPStorm and Magento2 plugins to assist with development
+* Authored detailed notes, guidelines, and development documentation for the Magento development team
 * Developed a component for an internal API integration module for USA API endpoints
 * Developed a component for a completely separate internal API integration module for UK API endpoints
 * Developed components that integrated the API into applicable parts of Magento.  I kept the Magento integration modules separated because not all platforms and stores required all API components.  Once Magento 2.3.0 is released, we’re able to update individual components, as needed and based on backwards compatibility conflicts, without being forced to re-work the main API component
-* Performance code reviews and assisted with learning Magento 2 software patterns
+* Provided code reviews and assisted with teaching Magento 2 software patterns as the internal team shifted from Magento 1.x to Magento 2.x
+* Security and performance audits with resolutions to most problematic issues
 * Created repository for patching core based on resolved code from Magento's support team and/or from open-source issues marked complete for next release.  Patches were applicable to specific core versions only, thus eliminating re-application on upgrades where the issue was resolved
 
 ### **Sr. Magento Developer**<br>June 2017 - February 2018<br><small>**Guidance Solutions, Inc.** &bullet; _Marina Del Rey, CA (Telecommuted)_</small>
