@@ -1,4 +1,4 @@
-# **Chris Snedaker**<br>E-commerce Consultant / Architect / Technical Lead
+# **Chris Snedaker**<br>E-commerce Architect / Technical Lead / Consultant
 
 **Stuart, FL.  34997**
 
@@ -11,11 +11,25 @@
 
 ## **Objective**
 
-**Secure a long-term e-commerce consulting, software architect, technical lead, or senior development role**
+**Secure a long-term role as e-commerce technical lead, architect, consultant, or senior development role**
 
 ----
 
 ## **Experience**
+
+
+### **Magento Techical Lead**<br>August 2019 - August 2020<br><small>**RMG Media** &bullet; _Orlando, FL (Telecommuted)_</small>
+
+Technical lead on Magento 1.x, 2.2.x and 2.3.x projects
+
+* Magento 1 CE to Magento 2 EE Upgrade and data migration
+* Magento 2.2.x to 2.3.x upgrades
+* Thwarted active security breach in real-time and prevented any loss of data and revenue; Identified and immediately resolved point of entry
+* Forensic analysis of security breaches and JS injections
+* GIT management of code merges, deployments, and versioning to staging and production environments
+* Code reviews and magento2 module audits 
+* Performance reviews and resolutions
+* Automated Magento patch application based on magento version
 
 ### **Magento Techical Lead / Developer**<br>December 2018 - August 2019<br><small>**Image Skincare** &bullet; _Lantana, FL (Telecommuted)_</small>
 
