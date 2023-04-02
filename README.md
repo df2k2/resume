@@ -299,7 +299,8 @@ Unix and Windows-based product and operating system software installation, testi
 
 **Certifications**
 
-* **Magento 2 Certified Solutions Specialist** (August 2017) - https://u.magento.com/certification/directory/dev/100167/
+* **Adobe Certified Professional - Adobe Commerce Developer (Adobe Commerce)** [View Transcript](https://www.certmetrics.com/adobe/public/transcript.aspx?transcript=H7WHVEE2CJ1E173D)
+* **Magento 2 Certified Solutions Specialist** (August 2017) - [View Transcript](https://www.certmetrics.com/adobe/public/transcript.aspx?transcript=H7WHVEE2CJ1E173D)
 * **Magento Certified Frontend Developer** (July 2015) - https://u.magento.com/certification/directory/dev/100167/
 * **Magento Certified Developer Plus** (August 2014) - https://u.magento.com/certification/directory/dev/100167/
 
