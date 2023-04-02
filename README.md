@@ -4,9 +4,6 @@
 
 **(561) xxx-xxxx<br>xxxxxx@gmail.com**
 
-
-**Formatted:** https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/df2k2/resume/master/README.md
-
 -----
 
 ## **Objective**
@@ -16,6 +13,24 @@
 ----
 
 ## **Experience**
+
+### **Adobe Commerce / Magento2 Solutions Architect**<br>November 2020 - Current<br><small>**LeanSwift, LLC** &bullet; _Cocoa Beach, FL (Telecommuted)_</small>
+
+Adobe Commerce / Magento2 Software Architecture for large B2B integrations into Infor ERPs; Leading development teams during project implementation and maintenance
+
+**Key Responsibilities:**
+
+* Collaborated directly with clients to understand their unique e-commerce requirements and designed tailored solutions to meet their business objectives.
+* Led a team of software developers in the implementation of custom Magento 2 projects, ensuring high-quality, efficient, and scalable solutions.
+* Developed and integrated API solutions for seamless communication between Magento 2 platforms and Infor M3 ERP systems, streamlining data flow and improving business processes.
+* Conducted security forensic analysis, implemented protection measures, and maintained a proactive approach to safeguarding client data and system integrity.
+* Performed regular upgrades of Magento 2 core and third-party modules, ensuring compatibility and seamless integration of new features and improvements.
+* Managed web server maintenance and optimization tasks, implementing best practices to enhance site performance, stability, and security.
+* Debugged and resolved performance issues, identifying bottlenecks and implementing effective solutions to optimize the user experience.
+* Acted as a technical consultant for clients, providing expert guidance and support throughout the entire project lifecycle.
+* Conducted comprehensive code reviews and provided constructive feedback to developers, ensuring adherence to best practices and maintaining the highest standards of code quality.
+* Continuously monitored and optimized platform performance, identifying opportunities for improvement and implementing necessary updates.
+* Stayed up-to-date with the latest Magento 2 features and industry trends to ensure the delivery of cutting-edge e-commerce solutions.
 
 
 ### **Magento Techical Lead**<br>August 2019 - August 2020<br><small>**RMG Media** &bullet; _Orlando, FL (Telecommuted)_</small>
@@ -31,17 +46,21 @@ Technical lead on Magento 1.x, 2.2.x and 2.3.x projects
 * Performance reviews and resolutions
 * Automated Magento patch application based on magento version
 
+
 ### **Magento Techical Lead / Developer**<br>December 2018 - August 2019<br><small>**Image Skincare** &bullet; _Lantana, FL (Telecommuted)_</small>
 
 Magento 2.2.x development, consultation, solutions, and architecture in a collaborative team environment; Project hosted within Magento's Cloud infrastructure
 
-* Security audits, improvements, and 
-* Debugging and resolving bugs and issues
-* Supported and developed external service integrations
-* Provided guidance and direction to developers
-* Assisted with international multi-store architecture
-* Developed detailed plans and execution for migration to Magento's B2B module
-* Identified and resolved the most problematic performance issues, boosting sales almost immediately
+**Key Responsibilities:**
+
+* Collaborated with a cross-functional team in the development, consultation, and architecture of Magento 2.2.x projects, hosted within Magento's Cloud infrastructure.
+* Conducted comprehensive security audits and implemented improvements to strengthen system protection and safeguard sensitive data.
+* Debugged and resolved a variety of bugs and issues, ensuring optimal site performance and user experience.
+* Supported and developed external service integrations, streamlining data exchange and enhancing overall system efficiency.
+* Provided guidance and direction to developers, fostering a collaborative and productive working environment.
+* Assisted with the design and implementation of an international multi-store architecture, enabling the expansion of the company's global presence.
+* Developed detailed plans and executed the migration to Magento's B2B module, supporting the company's growth and diversification.
+* Identified and resolved the most problematic performance issues, resulting in an immediate boost in sales and overall customer satisfaction.
 
 
 ### **Magento Consultant / Developer**<br>May 2018 - November 2018<br><small>**CDS Global, Inc.** &bullet; _Des Moines, IA (Telecommuted)_</small>
