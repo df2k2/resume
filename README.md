@@ -37,14 +37,17 @@ Adobe Commerce / Magento2 Software Architecture for large B2B integrations into 
 
 Technical lead on Magento 1.x, 2.2.x and 2.3.x projects
 
-* Magento 1 CE to Magento 2 EE Upgrade and data migration
-* Magento 2.2.x to 2.3.x upgrades
-* Thwarted active security breach in real-time and prevented any loss of data and revenue; Identified and immediately resolved point of entry
-* Forensic analysis of security breaches and JS injections
-* GIT management of code merges, deployments, and versioning to staging and production environments
-* Code reviews and magento2 module audits 
-* Performance reviews and resolutions
-* Automated Magento patch application based on magento version
+**Key Responsibilities:**
+
+* Served as the technical lead for various Magento projects, spanning versions 1.x, 2.2.x, and 2.3.x.
+* Successfully executed the upgrade and data migration from Magento 1 CE to Magento 2 EE, ensuring a seamless transition with minimal downtime.
+* Managed Magento 2.2.x to 2.3.x upgrades, incorporating the latest features and improvements while maintaining system stability.
+* Detected and thwarted an active security breach in real-time, preventing any data loss or revenue impact, and swiftly addressed the point of entry to avoid future incidents.
+* Conducted forensic analysis of security breaches and JavaScript injections, identifying vulnerabilities and implementing appropriate countermeasures.
+* Oversaw GIT management, including code merges, deployments, and versioning for staging and production environments, ensuring a streamlined development process.
+* Performed comprehensive code reviews and Magento 2 module audits to maintain high standards of code quality and adherence to best practices.
+* Conducted performance reviews and implemented effective resolutions to optimize site speed, user experience, and overall system efficiency.
+* Developed an automated solution for Magento patch application based on the Magento version, streamlining the update process and enhancing platform security.
 
 
 ### **Magento Techical Lead / Developer**<br>December 2018 - August 2019<br><small>**Image Skincare** &bullet; _Lantana, FL (Telecommuted)_</small>
