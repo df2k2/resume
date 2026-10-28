@@ -71,6 +71,18 @@ Adobe Commerce / Magento 2 software architecture for large B2B integrations into
 **Tech:** Magento 2, Infor M3 ERP, PHP, REST APIs, Security forensics
 
 
+### **Senior Magento Developer**<br>August 2020 - November 2020<br><small>**Trellis** &bullet; _Malden, MA (Telecommuted)_</small>
+
+Magento 2 development and architecture for the agency's e-commerce clients.
+
+**Highlights:**
+
+* Magento 2 development for agency clients including Barefoot Books and ALPS OutdoorZ.
+* Built a Salsify PIM → Magento 2 integration module to sync product data and attributes into Magento.
+
+**Tech:** Magento 2, Salsify PIM, PHP
+
+
 ### **Magento Technical Lead**<br>August 2019 - August 2020<br><small>**RMG Media** &bullet; _Orlando, FL (Telecommuted)_</small>
 
 Technical lead on Magento 1.x, 2.2.x and 2.3.x client projects.
@@ -234,7 +246,36 @@ Executive Assistant to Joel Glazer / office systems administrator. Built a fully
 
 ## **Notable Client Projects**
 
-Delivered as part of the consulting engagements above (Guidance Solutions, Dyode, Jamersan, Alpine Consulting, Jupiter-SEO):
+**Recent engagements (2018 – present)** — delivered through the Life Time, LeanSwift, Trellis, RMG Media, and Image Skincare roles above. LeanSwift projects were Adobe Commerce (Magento 2) B2B storefronts integrated with Infor M3 ERP:
+
+| Client | Engagement | Platform | Notes |
+|---|---|---|---|
+| [Life Time Shop](https://shop.lifetime.life/) | Life Time | Magento 2 · Hyvä | Life Time's online retail store (LT Shop); Hyvä frontend, OrderGroove subscriptions, EDI 846/945 order pipeline |
+| [Edeco Tool](https://edeco.dk/) | LeanSwift | Magento 2 + Infor M3 | Cutting-tool and machining-tool distributor (Denmark / Sweden) |
+| [Turf Star Western](https://www.turfstar.com/) | LeanSwift | Magento 2 + Infor M3 | Toro turf-equipment distributor for the US West Coast |
+| [West Coast Paper (WCP Solutions)](https://www.wcpsolutions.com/) | LeanSwift | Magento 2 + Infor M3 | Wholesale paper, packaging and facility-supplies distributor |
+| [Clover Sonoma](https://cloversonoma.com/) | LeanSwift | Magento 2 + Infor M3 | Dairy producer (Sonoma County, CA) |
+| [Al-Kadi](https://al-kadi.com/) | LeanSwift | Magento 2 + Infor M3 | Truck and trailer spare-parts distributor (Saudi Arabia) |
+| [Champion Petfoods](https://championpetfoods.com/) | LeanSwift | Magento 2 + Infor M3 | ORIJEN / ACANA pet-food manufacturer |
+| [Radians](https://www.radians.com/) | LeanSwift | Magento 2 + Infor CloudSuite (M3) | PPE / safety-products manufacturer and distributor |
+| [Custom Truck One Source (CTOS)](https://www.customtruck.com/) | LeanSwift | Magento 2 + Infor M3 | Specialized truck and heavy-equipment sales, rental and parts |
+| [Iconex](https://www.iconex.com/) | LeanSwift | Magento 2 + Infor M3 | Receipt-paper and linerless-label manufacturer |
+| [Biamp](https://www.biamp.com/) | LeanSwift | Magento 2 + Infor M3 | Professional audio/video systems manufacturer |
+| [Master Halco](https://www.masterhalco.com/) | LeanSwift | Magento 2 + Infor M3 | Wholesale fencing distributor |
+| [Weinbrenner Shoe Co.](https://weinbrennerusa.com/) | LeanSwift | Magento 2 + Infor M3 | Footwear manufacturer (Thorogood) |
+| [Møbelringen](https://www.mobelringen.no/) | LeanSwift | Magento 2 + Infor M3 | Norwegian furniture retail chain |
+| [ALPS OutdoorZ](https://alpsoutdoorz.com/) | Trellis | Magento 2 | Hunting packs, blinds and gear (ALPS Brands) |
+| [Barefoot Books](https://www.barefootbooks.com/) | Trellis | Magento 2 | Children's book publisher |
+| [Crispi USA](https://www.crispiusa.com/) | RMG Media | Magento 2 | Hunting and work boots |
+| [ADAK Hunt](https://www.adakhunt.com/) | RMG Media | Magento 2 | Binocular harness systems for hunters; BlackOvis-affiliated brand (same engagement) |
+| [BlackOvis](https://www.blackovis.com/) | RMG Media | Magento 2 | Hunting gear and apparel retailer |
+| [No Compromise Gaming](https://www.nocompromisegaming.com/) | RMG Media | Magento 2 | Gaming-PC rent-to-own / financing retailer |
+| [Lobstergram](https://www.lobstergram.com/) | RMG Media | Magento 1 → 2 | Lobster and seafood gifting brand; Magento 1 → 2 re-platform |
+| [Image Skincare](https://www.imageskincare.com/) | Image Skincare | Magento 2.2.x · Magento Commerce Cloud | Professional skincare brand (Lantana, FL); international multi-store architecture and B2B module migration |
+
+**Also built (Trellis):** Salsify PIM → Magento 2 integration module (syncs product data and attributes from Salsify into Magento).
+
+**Earlier consulting engagements** — delivered through the Guidance Solutions, Dyode, Jamersan, Alpine Consulting, and Jupiter-SEO roles above:
 
 | Client | Dates | Platform | Highlights |
 |---|---|---|---|
